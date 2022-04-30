@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V-tyna
 - 👀 I’m interested in programming, cycling, sport, botanic etc.
-- 🌱 I’m currently learning JavaScript and frameworks.
-- 💞️ I’m looking to collaborate with decent cozy-atmosphere company to share my serious intentions, skills and energy.
+- 🌱 Keep learning JavaScript, library React and framework Angular.
+- 💞️ I'm currently in a mentoring program at Dev.Pro
 - 📫 How to reach me: 
              • telegram - @V-tynaB
              • email - boiko.vtyna@gmail.com
