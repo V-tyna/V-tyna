@@ -33,9 +33,9 @@
 <div align="center">
     <h1>📫📧 How to reach me: </h1>
     <h3>telegram: @V-tynaB
-      <a href = "mailto:boiko.vtyna@gmail.com"><img src="https://img.shields.io/badge/%40-email-%23c792ea" target="_blank"></a>
+      <a href="https://t.me/V_tynaB"><img src="https://img.shields.io/badge/-telegram-%2389ddff" target="_blank"></a>
     </h3>
     <h3>email: boiko.vtyna@gmail.com
-      <a href="https://t.me/V_tynaB"><img src="https://img.shields.io/badge/-telegram-%2389ddff" target="_blank"></a>
+       <a href = "mailto:boiko.vtyna@gmail.com"><img src="https://img.shields.io/badge/%40-email-%23c792ea" target="_blank"></a>
      </h3>  
 </div>
