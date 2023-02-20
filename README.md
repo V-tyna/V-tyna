@@ -1,7 +1,21 @@
 <div align="center">
-  <h1>👋 Hi, it's Valentyna Boiko </h1>
-  <h3> Welcome to my github page!<h3>
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%F0%9F%91%8B+Hi%2C+it's+Valentyna+Boiko." alt="Typing SVG" /></a>
+    <div>
+       <a href="https://www.linkedin.com/in/boikov-tyna/">
+          <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+       </a>
+       <a href="https://t.me/V_tynaB">
+          <img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=flat-square&logo=telegram">
+       </a>
+       <a href="mailto:boiko.vtyna@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-%23c792ea?style=flat-square&logo=gmail&logoColor=white">
+       </a>
+    </div> 
+  </h1>
+  <h3> Welcome to my github page!</h3>
 </div>
+
 <div align="center">
   <a href="https://github.com/V-tyna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-tyna&layout=compact&langs_count=7&theme=material-palenight"/>
@@ -29,13 +43,20 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150">
   </div>
 </div>
-
+    
 <div align="center">
-    <h1>📫📧 How to reach me: </h1>
-    <h3>telegram: @V-tynaB
-      <a href="https://t.me/V_tynaB"><img src="https://img.shields.io/badge/-telegram-%2389ddff" target="_blank"></a>
-    </h3>
-    <h3>email: boiko.vtyna@gmail.com
-       <a href = "mailto:boiko.vtyna@gmail.com"><img src="https://img.shields.io/badge/%40-email-%23c792ea" target="_blank"></a>
-     </h3>  
+<h1><details>
+  <summary>📈 My Github Stats</summary>
+<br>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V-tyna&theme=tokyonight) 
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V-tyna&theme=tokyonight) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V-tyna&theme=tokyonight)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=V-tyna&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V-tyna&theme=tokyonight&utcOffset=2)
+<br>
+
+</details></h1>
 </div>
