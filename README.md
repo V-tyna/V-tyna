@@ -18,7 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/V-tyna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-tyna&layout=compact&langs_count=7&theme=material-palenight"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V-tyna&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-tyna&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
