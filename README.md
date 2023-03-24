@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <h1> My knowleage</h1>
+  <h1> My knowledge</h1>
   <h3> Languages, Libraries & Frameworks
   <div>
     <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
@@ -56,7 +56,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V-tyna&theme=tokyonight)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=V-tyna&theme=tokyonight)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V-tyna&theme=tokyonight&utcOffset=2)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V-tyna&theme=tokyonight&utcOffset=8)
 <br>
 
 </details></h1>
